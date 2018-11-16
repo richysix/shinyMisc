@@ -1,0 +1,14 @@
+Package: shinyMisc
+Type: Package
+Title: Functions For Use With Shiny
+Version: 0.1.0
+Authors@R: person("Richard", "White", email = "rjw26@cam.ac.uk",
+                  role = c("aut", "cre"))
+Author: Richard White
+Maintainer: Richard White <rjw26@cam.ac.uk>
+Description: A collection of functions to reuse across Shiny projects
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
+Suggests: testthat
+RoxygenNote: 6.1.1
